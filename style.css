@@ -1,0 +1,49 @@
+.uppercase {
+    text-transform: uppercase;
+}
+
+body {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;  
+}
+
+h1, h2, h4, h5 {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    text-align: center;
+    font-weight: 500;
+}
+
+h1 {
+    font-size: 6cap;
+    padding-bottom: 30px;
+}
+
+h2 {
+    font-size: 4cap;
+}
+
+h4 {
+    font-size: 1.6cap;
+    font-weight: 450;
+}
+
+h5 {
+    font-size: 1.3cap;
+}
+
+p {
+    width: 89%;
+    margin: 0 auto;
+    line-height: 2;
+    padding-bottom: 20px;
+}
+
+.row{
+    font-size: 1.5cap;
+}
+
+.small-font {
+    font-size: 1cap;
+}
